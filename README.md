@@ -25,12 +25,12 @@ Este projeto é ideal para aprender e praticar tópicos comuns em bancos de dado
 
 ## 🗂 Estrutura do Repositório
 
-.
-├── games.csv # Dados de jogos para importação
-├── insert_data.sh # Script para inserir dados no banco
-├── queries.sh # Script com consultas SQL executáveis
-├── worldcup.sql.sql # Esquema de criação de tabelas e constraints
-└── README.md # Documentação do projeto
+
+games.csv -- Dados de jogos para importação
+insert_data.sh -- Script para inserir dados no banco
+queries.sh -- Script com consultas SQL executáveis
+worldcup.sql.sql -- Esquema de criação de tabelas e constraints
+README.md -- Documentação do projeto
 
 
 ---
